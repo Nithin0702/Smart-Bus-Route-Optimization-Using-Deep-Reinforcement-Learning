@@ -1,4 +1,4 @@
-# Smart-Bus-Route-Optimization-Using-Deep-Reinforcement-Learning
+# Smart Bus Route Optimization
 The Bus Route Planning System project aims to use reinforcement learning to optimize passenger pickup and routing in a city setting. An intelligent bus agent is trained to choose the most effective routes and pick up passengers strategically by integrating the principles of reinforcement learning. This paper presents an 
 innovative approach to optimize urban bus management systems using Deep Reinforcement Learning (DRL) algorithms. We integrate Q-Learning and Deep Q
 Learning. Deep Reinforcement Learning emphasizes the critical role of value functions in enhancing passenger pickup efficiency, route planning, and multi-agent 
